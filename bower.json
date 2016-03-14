@@ -1,0 +1,7 @@
+{
+  "name": "CONFTEST",
+  "description": "TESTING THE CONFIG STUFF WITH PROVIDERS AND WHATNOT",
+  "dependencies": {
+    "angular": "^1.5.0"
+  }
+}
